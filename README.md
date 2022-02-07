@@ -1,2 +1,2 @@
 # Python_ptit
-Các bài code trên code.ptit.edu.vn
+Các bài tập Python trên https://code.ptit.edu.vn/
